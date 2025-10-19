@@ -1,0 +1,5 @@
+{
+  "name": "Cloud Barcode Scanner",
+  "description": "A web-based barcode scanning application designed for warehouse operations. It allows users to select a shipping company, scan barcodes, and log the data in real-time with offline support, syncing to a cloud backend when connectivity is restored.",
+  "requestFramePermissions": []
+}
